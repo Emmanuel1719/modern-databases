@@ -1,6 +1,6 @@
 # Modern Databases — EPL 2024/25 Graph vs Document Database Comparison
 
-A hands-on comparison of two NoSQL database paradigms — **Neo4j (graph database)** and **MongoDB (document database)** — modelling and querying the same real world dataset: English Premier League 2024/25 season match data. Built for my Modern Databases module.
+A hands on comparison of two NoSQL database paradigms — **Neo4j (graph database)** and **MongoDB (document database)** — modelling and querying the same real world dataset: English Premier League 2024/25 season match data. Built for my Modern Databases module.
 
 ## The Brief
 
